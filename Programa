@@ -1,0 +1,7 @@
+- Crear arquitectura cliente servidor multihilo - ¿Servidor FTP?
+- Vista para cliente -> posibilidad de cargar el video a enviar ( probar desde terminal )
+- Probar el envio y recepcion del video
+- Lanzar los hilos para los pixeles (ver pdf )
+- Analizar el desarrollo de tensorflow para la clasificacion
+
+
