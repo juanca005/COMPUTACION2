@@ -8,6 +8,9 @@ def compara(ruta,q,q2):
        os.makedirs("mov/"+ruta)
        path='cap/'+ruta
 
+       #data = []
+       #image_names = []
+
        original = cv2.imread(path+'/'+'0.jpg')
 
        for filename in os.listdir(path):

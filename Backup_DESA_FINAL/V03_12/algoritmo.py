@@ -4,14 +4,19 @@
 from librerias import *
 
 
-def compara(ruta,q,q2):
+
+
+def compara(ruta,q):
        os.makedirs("mov/"+ruta)
        path='cap/'+ruta
+
+       #data = []
+       #image_names = []
 
        original = cv2.imread(path+'/'+'0.jpg')
 
        for filename in os.listdir(path):
-
+              
               image_to_compare = cv2.imread(os.path.join(path,filename))
               if original.shape == image_to_compare.shape:
                   print('Las imagenes tiene el mismo tamaño y canal')
@@ -50,13 +55,13 @@ def compara(ruta,q,q2):
               print("GOOD matches",len(good_points))
               print("Que tan bueno es el match", len(good_points) / number_keypoints * 100, "%")
 
-              if(len(good_points) / number_keypoints * 100 < 99):     #valor de siempre 77
+              if(len(good_points) / number_keypoints * 100 < 77):
                   path2="mov/"+ruta
                   print("deberiamos registrar movimiento")
                   cv2.imwrite(os.path.join(path2 , str(filename)),image_to_compare)
                
                   q.put(filename)  #quiero devolver las imagenes con movimiento al proceso padre
-                  q2.put(path2)
+                  
                   """  folder = 'cap'
                   for the_file in os.listdir(folder):
                       file_path = os.path.join(folder, the_file)
@@ -74,8 +79,5 @@ def compara(ruta,q,q2):
 
               cv2.waitKey(0)
               cv2.destroyAllWindows()
-
-
-
-              
+   
         

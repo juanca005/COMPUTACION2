@@ -8,7 +8,7 @@ from librerias import *
 
 
 def dividir(ruta):
-       
+       #con una guia de usuario indicariomos que el nombre del video debe ser nombre_apellido_nro_video   silvana_ramirez_1
        video_path = ruta
        print(ruta)
        os.makedirs("cap/"+ruta)
