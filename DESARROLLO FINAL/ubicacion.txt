@@ -1,8 +1,54 @@
-Thread-3--------ARGENTINA
-Thread-3--------ESPAÑA
-Thread-6--------ARGENTINA
-Thread-3--------ARGENTINA
-Thread-3--------ARGENTINA
-Thread-3--------ARGENTINA
-Thread-9--------ARGENTINA
-Thread-3--------ARGENTINA
+Thread-7--------ARGENTINA--------127.0.0.1
+Hilo--->Thread-3Ubicacion cliente--->ARGENTINADireccion Ip del cliente--->127.0.0.1Fecha/hora de conexión--->2020-12-11 01:05:43.247152
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-11 01:07:40.779697
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-11 01:07:43.047559
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-11 01:17:20.433476
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-11 01:17:22.885059
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-11 01:18:18.627064
+---Hilo--->Thread-4---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 12:11:19.665217
+---Hilo--->Thread-4---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:29:19.288906
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:30:41.106873
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:30:43.655597
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:30:46.002070
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:31:59.359485
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:32:02.850273
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:32:04.878157
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:34:08.900208
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:34:11.111011
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:34:13.253506
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:37:22.019138
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:37:24.259700
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:37:26.226795
+---Hilo--->Thread-21---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:37:27.909074
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:39:23.272214
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:39:25.535477
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 16:39:27.723739
+---Hilo--->Thread-4---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 17:34:10.802529
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 17:46:07.831984
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 17:46:10.217037
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 17:46:12.313921
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:14:37.666431
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:05.086963
+---Hilo--->Thread-9---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:07.834024
+---Hilo--->Thread-15---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:09.876005
+---Hilo--->Thread-21---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:11.768856
+---Hilo--->Thread-27---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:13.886607
+---Hilo--->Thread-33---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:15.862471
+---Hilo--->Thread-39---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:17.686466
+---Hilo--->Thread-45---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:19.453370
+---Hilo--->Thread-51---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:21.263425
+---Hilo--->Thread-57---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:23.018092
+---Hilo--->Thread-63---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:24.954340
+---Hilo--->Thread-69---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:38:27.455372
+---Hilo--->Thread-78---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 20:39:34.622443
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:12:51.287670
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:44:02.319142
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:57:21.416605
+---Hilo--->Thread-6---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:57:29.472835
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:58:34.317255
+---Hilo--->Thread-6---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:59:12.613970
+---Hilo--->Thread-4---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 21:59:33.114947
+---Hilo--->Thread-3---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-12 22:00:26.742260
+---Hilo--->Thread-4---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-13 11:18:24.023878
+---Hilo--->Thread-10---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-13 11:18:26.598067
+---Hilo--->Thread-20---Ubicacion cliente--->ARGENTINA---Direccion Ip del cliente--->127.0.0.1---Fecha/hora de conexión--->2020-12-13 11:20:28.320222
