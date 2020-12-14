@@ -1298,3 +1298,627 @@ Thread-18: 127.0.0.1 - - [13/Dec/2020 11:19:02] "[36mGET /static/imagenes/mov/d
 Thread-19: 127.0.0.1 - - [13/Dec/2020 11:20:18] "[37mGET / HTTP/1.1[0m" 200 -
 Thread-20: 127.0.0.1 - - [13/Dec/2020 11:21:03] "[32mPOST / HTTP/1.1[0m" 302 -
 Thread-21: 127.0.0.1 - - [13/Dec/2020 11:21:03] "[37mGET /mostrar HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 12:13:37] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 12:13:41] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 12:13:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 12:13:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 12:13:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 12:13:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 12:13:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 12:14:16] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 12:14:55] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 12:15:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 12:15:31] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 12:15:31] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 12:15:31] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 12:15:31] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 12:15:31] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 12:16:45] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 12:17:22] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 12:17:22] "[35m[1mGET /mostrar?upload_folder=dir%2Fd HTTP/1.1[0m" 500 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 12:17:22] "[37mGET /mostrar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 12:17:22] "[37mGET /mostrar?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 12:17:22] "[37mGET /mostrar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 12:17:22] "[37mGET /mostrar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 12:17:57] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 12:18:36] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 12:18:36] "[33mGET /mostrar/dir/p HTTP/1.1[0m" 404 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 12:19:01] "[33mGET /mostrar/dir/p/video_corto.mp4 HTTP/1.1[0m" 404 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 12:19:06] "[33mGET /mostrar/dir/p/video_corto.mp4/3.jpg HTTP/1.1[0m" 404 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 12:19:34] "[33mGET /mostrar/dir/p/video_corto.mp4 HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 12:26:17] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 12:26:18] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 12:26:54] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 12:26:54] "[33mGET /static/imagenes/mov//dir/i HTTP/1.1[0m" 404 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 12:27:55] "[33mGET /static/imagenes/mov/dir/i/video_corto.mp4 HTTP/1.1[0m" 404 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 12:28:14] "[33mGET /static/imagenes/mov/dir/i/video_corto.mp4/ HTTP/1.1[0m" 404 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 12:28:30] "[37mGET /static/imagenes/mov/dir/i/video_corto.mp4/3.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:00:55] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:01:06] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:01:06] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 13:01:06] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 13:01:06] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 13:01:07] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 13:01:07] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:02:41] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:03:18] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:03:18] "[33mGET /static/imagenes/mov/dir/u/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:10:57] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:11:34] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:11:34] "[33mGET /static/imagenes/mov/dir/m/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:12:11] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:12:46] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:12:46] "[33mGET /static/imagenes/mov/dir/o/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:16:00] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:16:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 13:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 13:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 13:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 13:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 13:16:39] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 13:16:39] "[33mGET /static/imagenes/mov/dir/e/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:17:22] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:19:06] "[37mGET / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:20:51] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:20:51] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:20:51] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 13:20:51] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 13:20:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 13:20:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:21:00] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:21:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:21:35] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 13:21:35] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 13:21:35] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 13:21:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 13:21:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:39:09] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:39:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:39:13] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 13:39:13] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 13:39:13] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 13:39:13] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 13:39:13] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 13:39:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 13:39:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 13:39:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 13:39:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 13:39:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 13:39:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 13:39:18] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 13:39:18] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 13:39:18] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 13:39:18] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 13:39:18] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 13:39:18] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 13:39:20] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 13:39:20] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-24: 127.0.0.1 - - [13/Dec/2020 13:39:20] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-23: 127.0.0.1 - - [13/Dec/2020 13:39:20] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-25: 127.0.0.1 - - [13/Dec/2020 13:39:20] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-26: 127.0.0.1 - - [13/Dec/2020 13:39:20] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-27: 127.0.0.1 - - [13/Dec/2020 13:39:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-28: 127.0.0.1 - - [13/Dec/2020 13:39:22] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-30: 127.0.0.1 - - [13/Dec/2020 13:39:22] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-29: 127.0.0.1 - - [13/Dec/2020 13:39:22] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-31: 127.0.0.1 - - [13/Dec/2020 13:39:22] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-32: 127.0.0.1 - - [13/Dec/2020 13:39:22] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-33: 127.0.0.1 - - [13/Dec/2020 13:39:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-34: 127.0.0.1 - - [13/Dec/2020 13:39:57] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-36: 127.0.0.1 - - [13/Dec/2020 13:39:57] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-35: 127.0.0.1 - - [13/Dec/2020 13:39:57] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-37: 127.0.0.1 - - [13/Dec/2020 13:39:57] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-38: 127.0.0.1 - - [13/Dec/2020 13:39:57] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 13:41:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 13:41:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 13:41:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 13:41:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 13:41:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 13:41:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 16:41:28] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 16:41:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 16:41:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 16:41:31] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 16:41:31] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 16:41:31] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 16:41:32] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 16:41:32] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 16:41:34] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 16:41:34] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 16:41:34] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 16:41:34] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 16:41:34] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 16:41:34] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 16:41:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 16:41:36] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 16:41:36] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 16:41:36] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 16:41:36] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 16:41:36] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 16:41:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-23: 127.0.0.1 - - [13/Dec/2020 16:41:38] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-24: 127.0.0.1 - - [13/Dec/2020 16:41:38] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-25: 127.0.0.1 - - [13/Dec/2020 16:41:38] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-26: 127.0.0.1 - - [13/Dec/2020 16:41:38] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-27: 127.0.0.1 - - [13/Dec/2020 16:41:38] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-28: 127.0.0.1 - - [13/Dec/2020 16:41:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-29: 127.0.0.1 - - [13/Dec/2020 16:41:40] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-30: 127.0.0.1 - - [13/Dec/2020 16:41:40] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-31: 127.0.0.1 - - [13/Dec/2020 16:41:40] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-32: 127.0.0.1 - - [13/Dec/2020 16:41:40] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-33: 127.0.0.1 - - [13/Dec/2020 16:41:40] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-34: 127.0.0.1 - - [13/Dec/2020 16:41:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-36: 127.0.0.1 - - [13/Dec/2020 16:41:42] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-35: 127.0.0.1 - - [13/Dec/2020 16:41:42] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-37: 127.0.0.1 - - [13/Dec/2020 16:41:42] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-38: 127.0.0.1 - - [13/Dec/2020 16:41:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-39: 127.0.0.1 - - [13/Dec/2020 16:41:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-40: 127.0.0.1 - - [13/Dec/2020 16:42:28] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-42: 127.0.0.1 - - [13/Dec/2020 16:44:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-43: 127.0.0.1 - - [13/Dec/2020 16:44:36] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-44: 127.0.0.1 - - [13/Dec/2020 16:44:36] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-45: 127.0.0.1 - - [13/Dec/2020 16:44:36] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-46: 127.0.0.1 - - [13/Dec/2020 16:44:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-47: 127.0.0.1 - - [13/Dec/2020 16:44:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:00:47] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:01:21] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:02:34] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:03:10] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:07:36] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:08:14] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:09:51] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:10:33] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 17:10:33] "[33mGET /static/imagenes/mov/dir/v/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/server.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:21:15] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:21:51] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:24:15] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:25:09] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:25:45] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:27:09] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:27:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 17:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 17:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 17:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 17:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 17:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 17:27:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 17:27:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 17:27:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 17:27:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 17:27:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 17:27:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 17:27:51] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 17:27:51] "[33mGET /static/imagenes/mov/dir/r/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:35:33] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:36:10] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:40:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:40:53] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 17:40:53] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 17:40:53] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 17:40:53] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 17:40:53] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 17:41:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 17:41:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 17:41:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 17:41:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 17:41:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 17:41:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:45:13] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:45:47] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:46:51] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:48:12] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:48:47] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:53:46] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:53:46] "[33mGET /static/imagenes/mov/dir/n/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:56:51] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 17:58:00] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 17:58:36] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 17:58:36] "[33mGET /static/imagenes/mov/dir/c/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:02:56] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:03:30] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:03:30] "[33mGET /static/imagenes/mov/dir/q/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:08:33] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:09:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:09:08] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:09:08] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:09:08] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:09:08] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:09:09] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:11:18] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:11:54] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:11:54] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:11:54] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:11:54] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:11:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:11:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:13:01] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:13:40] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:13:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:13:43] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 18:13:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 18:13:46] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 18:13:46] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 18:13:46] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 18:13:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 18:13:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 18:13:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 18:13:48] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 18:13:48] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 18:13:48] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 18:13:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 18:13:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 18:14:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 18:14:22] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-23: 127.0.0.1 - - [13/Dec/2020 18:14:22] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-24: 127.0.0.1 - - [13/Dec/2020 18:14:22] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-25: 127.0.0.1 - - [13/Dec/2020 18:14:22] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-26: 127.0.0.1 - - [13/Dec/2020 18:14:22] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:17:00] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:17:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:17:35] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:17:35] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:17:35] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:17:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:17:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:18:55] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:18:59] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:18:59] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:18:59] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:18:59] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:18:59] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:18:59] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 18:19:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 18:19:01] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 18:19:01] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 18:19:01] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 18:19:01] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 18:19:01] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 18:19:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 18:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 18:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 18:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 18:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 18:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:23:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:23:30] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:23:30] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:23:30] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:23:30] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:23:30] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:23:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 18:23:32] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 18:23:32] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 18:23:32] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 18:23:32] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 18:23:32] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 18:24:07] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 18:24:07] "[37mGET /static/imagenes/mov/dir/l/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:27:05] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:27:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:27:08] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:27:08] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:27:08] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:27:08] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:27:08] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 18:27:10] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 18:27:10] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 18:27:10] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 18:27:10] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 18:27:10] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 18:27:10] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 18:27:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 18:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 18:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 18:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 18:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 18:27:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 18:27:47] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 18:27:47] "[33mGET /static/imagenes/mov/dir/r/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:30:32] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:31:08] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:31:08] "[33mGET /static/imagenes/mov/dir/s/video_corto.mp4/final.jpg HTTP/1.1[0m" 404 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:31:44] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:32:17] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:32:17] "[37mGET /static/imagenes/mov/dir/f/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:32:48] "[37mGET / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 18:44:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 18:44:54] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 18:44:54] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 18:44:54] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 18:44:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 18:44:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 18:45:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 18:45:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 18:45:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 18:45:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 18:45:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 18:45:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:09:16] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:09:16] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:09:16] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:09:16] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:09:17] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:09:17] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:09:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 21:09:54] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 21:09:54] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 21:09:54] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 21:09:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 21:09:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:14:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:14:09] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:14:09] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:14:09] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:14:09] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:14:09] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:14:44] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 21:14:44] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 21:14:44] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 21:14:44] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 21:14:45] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 21:14:45] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:16:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:16:19] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:16:19] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:16:19] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:16:19] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:16:20] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:19:50] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:19:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:19:50] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:19:50] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:19:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:19:51] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:19:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 21:19:53] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 21:19:53] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 21:19:53] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 21:19:53] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 21:19:53] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 21:19:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 21:19:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 21:19:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 21:19:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 21:19:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 21:19:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 21:19:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 21:19:57] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 21:19:57] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-23: 127.0.0.1 - - [13/Dec/2020 21:19:57] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-24: 127.0.0.1 - - [13/Dec/2020 21:19:57] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-25: 127.0.0.1 - - [13/Dec/2020 21:19:57] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-26: 127.0.0.1 - - [13/Dec/2020 21:21:14] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:22:44] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:28:44] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:33:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:33:12] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:33:12] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:33:12] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:33:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:33:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:35:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:35:36] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:35:36] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:35:36] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:35:36] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:35:36] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:39:00] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:39:00] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:39:00] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:39:00] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:39:01] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:39:01] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:40:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:42:56] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:43:05] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:43:05] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:43:05] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:43:05] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:43:05] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:43:05] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 21:43:41] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:49:10] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:49:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:49:14] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:49:14] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:49:14] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:49:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:49:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 21:49:53] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:51:55] "[37mGET / HTTP/1.1[0m" 200 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:52:33] "[37mPOST / HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:52:52] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:52:52] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:52:52] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:52:52] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:52:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 21:52:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 21:53:27] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:55:16] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:57:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:57:26] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 21:57:26] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 21:57:26] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 21:57:26] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 21:57:26] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 21:58:02] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 21:59:47] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 21:59:47] "[37mGET /static/imagenes/mov/dir/z/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:02:27] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:02:27] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 22:02:27] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 22:02:27] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 22:02:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 22:02:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 22:02:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 22:02:29] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 22:02:29] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 22:02:29] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 22:02:29] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 22:02:29] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 22:03:05] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 22:03:05] "[37mGET /static/imagenes/mov/dir/h/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:07:33] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:07:33] "[37mGET /static/imagenes/mov/dir/m/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:08:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:08:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 22:08:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 22:08:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 22:08:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 22:08:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 22:08:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 22:08:58] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 22:08:58] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 22:08:58] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 22:08:58] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 22:08:58] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 22:09:00] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 22:09:00] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 22:09:00] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 22:09:00] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 22:09:00] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 22:09:00] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 22:09:02] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 22:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-23: 127.0.0.1 - - [13/Dec/2020 22:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 22:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-24: 127.0.0.1 - - [13/Dec/2020 22:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-25: 127.0.0.1 - - [13/Dec/2020 22:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-26: 127.0.0.1 - - [13/Dec/2020 22:09:37] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-27: 127.0.0.1 - - [13/Dec/2020 22:09:37] "[37mGET /static/imagenes/mov/dir/v/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:11:46] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:11:46] "[37mGET /static/imagenes/mov/dir/k/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:12:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:12:38] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 22:12:38] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 22:12:38] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 22:12:38] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 22:12:38] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 22:13:24] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 22:13:24] "[37mGET /static/imagenes/mov/dir/f/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:50:39] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:50:39] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 22:50:39] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 22:50:39] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 22:50:40] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 22:50:40] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-8: 127.0.0.1 - - [13/Dec/2020 22:50:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-9: 127.0.0.1 - - [13/Dec/2020 22:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-10: 127.0.0.1 - - [13/Dec/2020 22:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-11: 127.0.0.1 - - [13/Dec/2020 22:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-12: 127.0.0.1 - - [13/Dec/2020 22:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-13: 127.0.0.1 - - [13/Dec/2020 22:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-14: 127.0.0.1 - - [13/Dec/2020 22:50:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-15: 127.0.0.1 - - [13/Dec/2020 22:50:44] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-16: 127.0.0.1 - - [13/Dec/2020 22:50:44] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-17: 127.0.0.1 - - [13/Dec/2020 22:50:44] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-18: 127.0.0.1 - - [13/Dec/2020 22:50:44] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-19: 127.0.0.1 - - [13/Dec/2020 22:50:44] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-20: 127.0.0.1 - - [13/Dec/2020 22:50:45] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-21: 127.0.0.1 - - [13/Dec/2020 22:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-22: 127.0.0.1 - - [13/Dec/2020 22:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-23: 127.0.0.1 - - [13/Dec/2020 22:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-24: 127.0.0.1 - - [13/Dec/2020 22:50:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-25: 127.0.0.1 - - [13/Dec/2020 22:50:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-26: 127.0.0.1 - - [13/Dec/2020 22:50:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-27: 127.0.0.1 - - [13/Dec/2020 22:50:48] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-28: 127.0.0.1 - - [13/Dec/2020 22:50:48] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-29: 127.0.0.1 - - [13/Dec/2020 22:50:48] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-30: 127.0.0.1 - - [13/Dec/2020 22:50:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-31: 127.0.0.1 - - [13/Dec/2020 22:50:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-32: 127.0.0.1 - - [13/Dec/2020 22:51:25] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-33: 127.0.0.1 - - [13/Dec/2020 22:51:25] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-34: 127.0.0.1 - - [13/Dec/2020 22:51:25] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-35: 127.0.0.1 - - [13/Dec/2020 22:51:25] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-36: 127.0.0.1 - - [13/Dec/2020 22:51:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-37: 127.0.0.1 - - [13/Dec/2020 22:51:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 22:57:16] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 22:57:16] "[37mGET /static/imagenes/mov/dir/g/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 23:00:19] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 23:00:19] "[37mGET /static/imagenes/mov/dir/f/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 23:04:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 23:04:46] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+Thread-5: 127.0.0.1 - - [13/Dec/2020 23:04:46] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+Thread-4: 127.0.0.1 - - [13/Dec/2020 23:04:46] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+Thread-6: 127.0.0.1 - - [13/Dec/2020 23:04:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+Thread-7: 127.0.0.1 - - [13/Dec/2020 23:04:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 23:08:02] "[37mPOST / HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 23:09:20] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 23:09:20] "[37mGET /static/imagenes/mov/dir/u/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -
+MainThread:  * Detected change in '/home/juanca05/Dropbox/PROYECTO COMPUTACION 2/COMPUTACION2/DESARROLLO FINAL/final.py', reloading
+Thread-2: 127.0.0.1 - - [13/Dec/2020 23:19:25] "[32mPOST / HTTP/1.1[0m" 302 -
+Thread-3: 127.0.0.1 - - [13/Dec/2020 23:19:25] "[37mGET /static/imagenes/mov/dir/b/video_corto.mp4/final.jpg HTTP/1.1[0m" 200 -

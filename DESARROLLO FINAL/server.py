@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+
 import datetime as dt
 import logging
 import threading
@@ -12,6 +13,10 @@ from flask import Flask, flash, redirect, render_template, request, session, abo
 import fotogramas
 import algoritmo
 import log
+import final
+
+import numpy as np
+from cv2 import cv2
 
 
 ALLOWED_EXTENSIONS = set(['mov', 'avi', 'mkv', 'mp4'])
@@ -23,16 +28,28 @@ def main(dir, filename):
     queue_2 = multiprocessing.Queue()
     proc_1 = multiprocessing.Process(target=fotogramas.dividir, args=(dir+'/'+filename, ))
     proc_2 = multiprocessing.Process(target=algoritmo.compara, args=(dir+'/'+filename, queue_1, queue_2,))
+    #proc_3 = multiprocessing.Process(target=final.unir, args=(queue_1, queue_2,))
     proc_1.start()
     proc_1.join()
     proc_2.start()
+    #proc_3.start()
     proc_2.join()
+
+    
+            
+
+    
+    
+
+
+
 
     #ruta = queue_2.get()   #en ruta tengo la direccion completa para poder mostrar fotogramas pero no logro llevar a la funcion imagenes
     #print ("rutaaaaaaaaaaaaaaa colaaa",ruta)
 
-@APLIC_BIRD.route('/mostrar')
-def imagenes():
+@APLIC_BIRD.route('/<image_path>/<upload_folder>/<filename>/final.jpg')
+def imagenes(upload_folder,image_path,filename):
+    print(upload_folder)
     image_path = "static/imagenes/mov/dir"
     image_path2 = "g/video_corto.mp4"
     path_final = os.path.join(image_path, image_path2)
@@ -60,12 +77,14 @@ def upload_file():
             file = request.files['file']
             try:
                 if file and allowed_file(file.filename):
+                    image_path = "static/imagenes/mov"
                     print('**archivo encontrado', file.filename)
                     filename = secure_filename(file.filename)
                     os.mkdir(upload_folder)
                     file.save(os.path.join(APLIC_BIRD.config['upload_folder'], filename))
                     main(upload_folder, filename)
-                    return redirect(url_for('imagenes'))
+                    final.unir(upload_folder, image_path, filename)
+                    return redirect(url_for('imagenes',upload_folder=upload_folder, image_path=image_path, filename=filename) )
             except FileNotFoundError:
                 print("El archivo no se pudo encontrar")
     except TypeError:
